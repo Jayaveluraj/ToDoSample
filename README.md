@@ -8,7 +8,7 @@ To do app to add new Event and user can edit and delete existing Events.
 - Swift 4.0+
 - Xcode 9.0+
 
-Extnal libs:
+External libs:
 'Firebase/Auth'
 'Firebase/Database'
 
